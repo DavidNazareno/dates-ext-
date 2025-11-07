@@ -1,0 +1,65 @@
+{
+  "title": "FECHAS DE INSTRUCCIÓN DE LOS PROCEDIMIENTOS DE LA OFICINA DE EXTRANJERIA DE MADRID",
+  "date": "04/11/2025",
+  "document": {
+    "ARRAIGOS NUEVO REGLAMENTO": [
+      { "procedimiento": "FAMILIAR", "solicitudes": ["22/05/2025"], "recursos": [] },
+      { "procedimiento": "SOCIAL", "solicitudes": ["20/05/2025"], "recursos": [] },
+      { "procedimiento": "SEGUNDA OPORTUNIDAD", "solicitudes": ["20/05/2025"], "recursos": [] },
+      { "procedimiento": "SOCIOLABORAL", "solicitudes": ["20/05/2025"], "recursos": [] },
+      { "procedimiento": "SOCIOFORMATIVO", "solicitudes": ["20/05/2025"], "recursos": ["28/09/2025"] }
+    ],
+    "FAMILIAR DE ESPAÑOL": [
+      { "procedimiento": "FAMILIAR DE ESPAÑOL", "solicitudes": ["31/05/2025"], "recursos": [] }
+    ],
+    "FAMILIARES DE CIUDADANO COMUNITARIO": [
+      { "procedimiento": "INICIAL", "solicitudes": ["22/05/2025"], "recursos": [] },
+      { "procedimiento": "PERMANENTE", "solicitudes": ["07/07/2025"], "recursos": ["31/12/2024"] },
+      { "procedimiento": "BREXIT", "solicitudes": ["05/07/2025"], "recursos": [] }
+    ],
+    "REAGRUPACIÓN FAMILIAR": [
+      { "procedimiento": "INICIAL", "solicitudes": ["22/05/2025", "05/04/2025"], "recursos": [] },
+      { "procedimiento": "RENOVACIÓN", "solicitudes": ["22/07/2025"], "recursos": [] }
+    ],
+    "ESTUDIANTES": [
+      { "procedimiento": "INICIAL", "solicitudes": ["11/07/2025", "31/12/2024"], "recursos": [] },
+      { "procedimiento": "PRÓRROGA", "solicitudes": ["25/06/2025"], "recursos": [] }
+    ],
+    "RESIDENCIA Y TRABAJO": [
+      { "procedimiento": "CUENTA AJENA INICIAL", "solicitudes": ["19/07/2025"], "recursos": [] },
+      { "procedimiento": "CUENTA PROPIA INICIAL", "solicitudes": ["10/07/2025"], "recursos": ["31/12/2024"] },
+      { "procedimiento": "RENOVACIÓN (cuenta ajena y cuenta propia)", "solicitudes": ["22/07/2025"], "recursos": [] },
+      { "procedimiento": "MENORES NACIDOS EN ESPAÑA", "solicitudes": ["17/08/2025", "01/04/2025"], "recursos": [] },
+      { "procedimiento": "NO NACIDOS EN ESPAÑA", "solicitudes": ["18/08/2025"], "recursos": [] }
+    ],
+    "RESIDENCIA NO LUCRATIVA": [
+      { "procedimiento": "INICIAL", "solicitudes": ["21/10/2025"], "recursos": ["11/04/2025"] },
+      { "procedimiento": "RENOVACIÓN", "solicitudes": ["01/08/2025"], "recursos": ["30/04/2025"] }
+    ],
+    "LARGA DURACIÓN": [
+      { "procedimiento": "RESIDENCIA DE LARGA DURACIÓN", "solicitudes": ["22/07/2025"], "recursos": ["30/09/2024"] },
+      { "procedimiento": "RESIDENCIA DE LARGA DURACIÓN UE", "solicitudes": ["22/07/2025"], "recursos": [] }
+    ],
+    "EXCEPTUADOS": [
+      { "procedimiento": "INICIAL", "solicitudes": ["07/10/2025"], "recursos": [] },
+      { "procedimiento": "MODIFICACIÓN", "solicitudes": ["16/06/2025"], "recursos": ["15/07/2025"] },
+      { "procedimiento": "RENOVACIÓN", "solicitudes": ["21/08/2025"], "recursos": [] }
+    ],
+    "CIRCUNSTANCIAS EXCEPCIONALES": [
+      { "procedimiento": "VIOLENCIA DE GÉNERO/SEXUAL", "solicitudes": ["27/07/2025"], "recursos": ["01/06/2025"] },
+      { "procedimiento": "RAZONES HUMANITARIAS", "solicitudes": ["17/07/2025"], "recursos": ["01/04/2025"] }
+    ],
+    "MODIFICACIONES A RESIDENCIA Y TRABAJO": [
+      { "procedimiento": "DESDE SITUACIONES QUE HABILITAN A TRABAJAR", "solicitudes": ["06/07/2025"], "recursos": ["31/12/2024"] },
+      { "procedimiento": "DESDE SITUACIONES QUE NO HABILITAN A TRABAJAR", "solicitudes": ["01/06/2025"], "recursos": [] },
+      { "procedimiento": "DESDE AUTORIZACIONES DE ESTANCIA DE ESTUDIANTES", "solicitudes": ["11/06/2025"], "recursos": [] },
+      { "procedimiento": "DESDE FAMILIAR DE ESPAÑOL O FAMILIAR DE COMUNITARIO", "solicitudes": ["21/07/2025"], "recursos": [] }
+    ],
+    "ARRAIGOS ANTIGUO REGLAMENTO": [
+      { "procedimiento": "FAMILIAR", "solicitudes": ["22/05/2025"], "recursos": ["05/11/2024"] },
+      { "procedimiento": "LABORAL", "solicitudes": ["03/04/2025"], "recursos": ["30/12/2025"] },
+      { "procedimiento": "SOCIAL", "solicitudes": ["25/03/2025"], "recursos": ["20/11/2024"] },
+      { "procedimiento": "FORMACIÓN I", "solicitudes": ["06/05/2025"], "recursos": ["19/04/2025"] }
+    ]
+  }
+}
